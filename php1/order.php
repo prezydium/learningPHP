@@ -25,6 +25,7 @@ echo<<<END
 		<td>SUMA</td><td>$suma PLN</td>
 	</tr>
 	</table>
+<br/> <a href="index.php">Powrót do zamawiania</a>
 	
 END;
 
